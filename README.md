@@ -6,3 +6,4 @@ run the program using the command
 
 streamlit run writer.py
 
+![image](https://github.com/user-attachments/assets/86790f02-1595-4ac4-bad4-6d283cece81d)
